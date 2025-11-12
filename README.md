@@ -4,7 +4,7 @@
 
 This repository details the development of a full-stack computer architecture solution: a specialized Instruction Set Architecture (ISA) extension for RISC-V, its integration into the LLVM compiler toolchain, and the Verilog implementation of a multi-cycle processor core that executes these custom instructions. [cite_start]This project was completed as part of the BIL361 – Computer Architecture and Organization course at TOBB University of Economics and Technology[cite: 5].
 
-## 🎯 Project Overview and Key Achievements
+## Project Overview and Key Achievements
 
 [cite_start]The project involved simultaneous development in software and hardware components for a custom 32-bit RISC-V processor[cite: 8].
 
