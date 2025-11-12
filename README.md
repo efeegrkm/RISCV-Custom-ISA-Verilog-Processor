@@ -1,4 +1,6 @@
 # Custom 32-bit RISC-V Processor and LLVM Extension
+@Author Efe Görkem AKKANAT
+
 
 This repository details the development of a full-stack computer architecture solution: a specialized Instruction Set Architecture (ISA) extension for RISC-V, its integration into the LLVM compiler toolchain, and the Verilog implementation of a multi-cycle processor core that executes these custom instructions. [cite_start]This project was completed as part of the BIL361 – Computer Architecture and Organization course at TOBB University of Economics and Technology[cite: 5].
 
@@ -77,4 +79,4 @@ This repository details the development of a full-stack computer architecture so
 
 ## 4. Documentation
 
-[cite_start]Detailed architectural documentation is provided, including a hand-drawn (or digital) datapath diagram and the complete truth table for the Control Unit, saved as `<Surname_StudentNumber>.pdf`[cite: 274, 275, 276].
+[cite_start]Detailed architectural documentation is provided, including a hand-drawn (or digital) datapath diagram and the complete truth table for the Control Unit, saved as `<Akkanat>.pdf`[cite: 274, 275, 276].
